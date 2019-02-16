@@ -1,6 +1,6 @@
 ###
 
-Boundary_thickness: defines how far the computation mask extends beyond the pupil mask 
+Boundary_thickness: defines how far the computation mask extends beyond the pupil mask
                 and, in fft.algo, it is also the width of Neuman boundary where the derivative of the wavefront is set to zero
 
 ###
@@ -24,5 +24,3 @@ Compensator_oversample                  1
 OffAxis_poly_order                      10
 Compensation_sequence                   comp_sequ_14.txt
 Boundary_thickness (pixel)              8
-
-

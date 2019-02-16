@@ -23,4 +23,4 @@ Compensator_mode                        zer
 Compensator_oversample                  1
 OffAxis_poly_order                      10
 Compensation_sequence                   comp_sequ_14.txt
-Boundary_thickness (pixel)              8
+Boundary_thickness (pixel)              4
